@@ -1,0 +1,25 @@
+body {
+  width: 100%;
+  margin: auto;
+  background-image: url(bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: serif;
+  line-height: 1.5;
+  color: white;
+}
+
+main {
+  background: #00000099;
+  padding: 20px 40px;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+.logo,
+.band-name,
+.headline {
+  margin: 0;
+  text-align: center;
+}
